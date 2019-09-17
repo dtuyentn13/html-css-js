@@ -1,0 +1,21 @@
+.container {
+	width: 960px;
+	margin: 0 auto;
+	border: 1px solid black;
+	padding: 2em;
+}
+#post {
+	background-color: blue;
+	width: 560px;
+	height: 300px;
+	float: left;
+}
+#sidebar {
+	background-color: red;
+	width: 400px;
+	float: right;
+	height: 300px;
+}
+#content {
+	overflow: auto;
+}
