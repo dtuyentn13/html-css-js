@@ -1,0 +1,49 @@
+body {
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #333;
+    font-weight: 300px;
+    margin: 0;
+}
+.header {
+    background: #333;
+    color: #fff;
+    padding: 0.3em 1em;
+}
+.content,
+.sidebar {
+    box-sizing: border-box;
+}
+.content {
+    background: #e8e8e8;
+    padding: 0.3em 1em;
+    margin-bottom: 1em;
+}
+.sidebar {
+    background: #c3c3c3;
+    font-size: 95%;
+    padding: 0.3em 1em;
+}
+@media screen and (min-width: 600px) {
+    .main:before, .main:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    .main {
+        max-width: 100%;
+    }
+    .content {
+        width: 63.5%;
+        float: left;
+        margin-right: 1.5%;
+    }
+    .sidebar {
+        width: 35%;
+        float: left;
+    }
+}@media screen and (min-width: 1024px) {
+    .container {
+        max-width: 1280px;
+        margin: 0 auto; 
+    }
+}

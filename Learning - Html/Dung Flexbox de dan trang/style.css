@@ -1,0 +1,25 @@
+.container {
+    background: red;
+    max-width: 960px;
+    max-height: 1000px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.item {
+    background: blue;
+    margin: 5px;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+.container {
+    display: flex;
+    justify-content:space-around;
+} 
+.item {
+    width: 50px;
+}
+.item3 {
+    flex-basis: 300px;
+}
