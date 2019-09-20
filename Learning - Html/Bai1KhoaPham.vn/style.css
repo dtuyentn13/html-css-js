@@ -1,0 +1,34 @@
+#wrapper {
+	width: 800px;
+	background-color: yellow;
+	margin: 0 auto;
+}
+#top {
+	width: 800px;
+	height: 100px;
+	background-color: yellow;
+}
+#left {
+	width: 200px;
+	height: 600px;
+	background-color: blue;
+	float: left;
+}
+#content {
+	width: 400px;
+	height: 600px;
+	background-color: #E0E0E0;
+	float: left;
+}
+#right {
+	width: 200px;
+	height: 600px;
+	background-color: black;
+	float: left;
+}
+#footer {
+	width: 800px;
+	height: 70px;
+	background-color: #FFCA28;
+	clear: both;
+}
