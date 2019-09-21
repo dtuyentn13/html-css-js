@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"bo",
+				"border-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"lio",
+				"list-style-position\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"bakc",
+				"background-position\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/KISS/Documents/GitHub/html-css-js/Learning - Html/b-23/b23-tao chuyen dong voi transition.html",
+		"/C/Users/KISS/Documents/GitHub/html-css-js/Learning - Html/b-23/b23.css",
+		"/C/Users/KISS/Documents/GitHub/html-css-js/Learning - Html/b23-tao chuyen dong voi transition.html",
+		"/C/Users/KISS/Documents/GitHub/html-css-js/Learning - Html/Nhung css External Styles.html",
+		"/C/Users/KISS/Documents/GitHub/html-css-js/Learning - Html/bai-22/CSS Framework.html",
+		"/C/Users/KISS/Desktop/Học - Html/Nhung css External Styles.html",
+		"/C/Users/KISS/Desktop/Học - Html/Có 5 kiểu vùng chọn cơ bản.html",
+		"/C/Users/KISS/Desktop/Học - Html/Float và Clear Float.html",
+		"/C/Users/KISS/Desktop/template1/index.html",
+		"/C/Users/KISS/Desktop/template1/style.css",
+		"/C/Users/KISS/Desktop/Học - Html/float.css",
+		"/C/Users/KISS/Desktop/Học - Html/form.html",
+		"/C/Users/KISS/Desktop/Học - Html/background.css",
+		"/C/Users/KISS/Desktop/Học - Html/link.html",
+		"/C/Users/KISS/Desktop/Học - Html/Nhúng CSS kiểu inline.html",
+		"/C/Users/KISS/Desktop/Học - Html/Nhúng CSS kiểu External Styles.html",
+		"/C/Users/KISS/Desktop/Học - Html/style.css",
+		"/C/Users/KISS/Desktop/Học - Html/img.html",
+		"/C/Users/KISS/Desktop/Học - Html/wed1.html",
+		"/C/Users/KISS/Desktop/Học - Html/Tạo list trong html.html",
+		"/C/Users/KISS/Desktop/Học - Html/text.html",
+		"/C/Users/KISS/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bai-24.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

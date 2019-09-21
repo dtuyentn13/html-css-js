@@ -1,0 +1,14 @@
+#box1 {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	transition: all 1s;
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+}
+#box1:hover {
+	transform: rotate(90deg);
+}
+#box1 {
+	text-align: center;
+}

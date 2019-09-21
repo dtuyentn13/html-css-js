@@ -1,0 +1,12 @@
+#box {
+	width: 150px;
+	height: 200px;
+	background: blue;
+	transition: all 1s 0.2s ease-out;
+	-moz-transition: all 1s 0.2s ease-out;
+	-webkit-transition: all 1s 0.2s ease-out;
+}
+#box:hover {
+	background-color: red;
+	margin: 250px;
+}

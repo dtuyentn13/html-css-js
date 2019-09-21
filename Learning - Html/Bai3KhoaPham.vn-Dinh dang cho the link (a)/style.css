@@ -1,0 +1,20 @@
+#menu {
+	width: 100px;
+}
+a:link, a:visited {
+	background-color: #E3F2FD; 
+	color: black;
+	clear: both;
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	padding: 5px;
+	margin-bottom: 1px;
+}
+a:hover {
+	background-color: #FFF59D; 
+	color: #607D8B
+}
+a:active {
+	background-color: #BCAAA4
+}
