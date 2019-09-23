@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Thiết kế Menu Accourdion bằng jQuery</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$(".con").hide();
+			$(".cap1").click(function(){
+				$(this).next().slideToggle();
+			});
+		});
+	</script>
+</head>
+<body>
+	<div id="menu">
+		<div class="cap1">Khóa học</div>
+		<div class="con">
+			<a href="#">IOS</a>
+			<a href="#">Android</a>
+			<a href="#">PHP</a>
+		</div>
+		<div class="cap1">Khóa học</div>
+		<div class="con">
+			<a href="#">IOS</a>
+			<a href="#">Android</a>
+			<a href="#">PHP</a>
+		</div>
+		<div class="cap1">Khóa học</div>
+		<div class="con">
+			<a href="#">IOS</a>
+			<a href="#">Android</a>
+			<a href="#">PHP</a>
+		</div>
+	</div>
+</body>
+</html>

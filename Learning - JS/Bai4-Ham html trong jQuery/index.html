@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hàm html trong jQuery</title>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			var n = $("#so1").html();
+			var m = $("#so2").html();
+			var tong = n + m;
+			$("#kq").html(tong);
+		});
+	</script>
+</head>
+<body>
+	<h1 id="so1">8</h1>
+	<h1 id="so2">2</h1>
+	<h2 id="kq">...</h2>
+</body>
+</html>
